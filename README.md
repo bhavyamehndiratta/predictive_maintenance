@@ -99,3 +99,8 @@ Dashboard runs at `http://localhost:3000`. API at `http://localhost:8000`.
 
 ## Tech Stack
 Python, PyTorch, scikit-learn, pandas, numpy, scipy, FastAPI, React, Recharts
+
+## Dashboard
+
+![Dashboard overview](docs/dashboard_top.png)
+![Sensor trajectories](docs/dashboard_sensors.png)
